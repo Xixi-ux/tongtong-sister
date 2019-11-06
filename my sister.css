@@ -1,0 +1,22 @@
+body {
+    font-size: 1.5em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 3px solid palegreen;
+    
+}
+h1, h2 {
+    color: goldenrod;
+
+}
+p {
+    color: maroon;
+}
+.cd a:link {
+    color: blue;
+}
+.cd a:visited {
+    color: palegreen;
+}
+.cd a:hover {
+    color: goldenrod;
+}
